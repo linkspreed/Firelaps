@@ -14,13 +14,17 @@ Firelaps 🔥 is a fiery network where anyone📱 can become a news reporter.✨
 
 ## Features
 
- - Searches the entire web or specific parts of the web
- - Instant answers, Real time search auto-completion, rich snippets
- - 6 Preloaded search categories
- - Responsive theme with built in RTL and dark-mode support
- - Safe Search
- - Privacy first+
- 
+- **News**: Post, and import news easily.
+- **Videos**: Post, and import videos easily from YouTube, Dailymation, Facebook, and Vine.
+- **Lists**: Create unlimited lists such as buzzfeed lists, and lot more!
+- **Polls**: Create unlimited polls.
+- **Music**: Create unlimited music, import music from soundcloud.
+- **Quizzes**: Create unlimited quizzes.
+- **Powerful UI**: Beautiful and modern design.
+- **Breaking News**: Create Live Breaking News.
+- **Reaction System**: Users can react to posts.
+- **Custom Profile Fields**: Create custom profile fields for users.
+- **API System**: Full API system included for third patry applications. 
 **AND SO MUCH MORE ...**
 
 ## More
