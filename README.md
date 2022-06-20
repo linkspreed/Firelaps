@@ -25,16 +25,16 @@ Firelaps 🔥 is a fiery network where anyone📱 can become a news reporter.✨
 - **Reaction System**: Users can react to posts.
 - **Custom Profile Fields**: Create custom profile fields for users.
 - **API System**: Full API system included for third patry applications. 
-**AND SO MUCH MORE ...**
+- **AND SO MUCH MORE ...**
 
 ## More
- 
-**Twig** was created by **Linkspreed**
-to enable you to search the entire web 
-anonymously, at lightning speed and securely 
-in a few seconds.
 
-Twig is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
+**Firelaps** was created by **Linkspreed**.
+Become a news reporter quickly and easily
+and experience a whole new kind of
+social media.
+
+Firelaps is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 
  ```php
     We make sure that our code 
@@ -42,13 +42,22 @@ Twig is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/)
     the platform works as well as possible.
 ```
 
-Start your first search now and experience a completely new search experience.
+Create an account now and immerse yourself in a new world of social networks.
 
 ## 📷 UI
 
 
-### Search now
-<img align="center" alt="Twig" width="3000px" src="https://github.com/linkspreed/Twig/blob/main/Screenshots/1.PNG" draggable="false" />
+### Welcome :)
+<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/1.PNG" draggable="false" />
+
+### Timeline
+<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/2.PNG" draggable="false" />
+
+### Publish now
+<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Settings
-<img align="center" alt="Twig" width="3000px" src="https://github.com/linkspreed/Twig/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/4.PNG" draggable="false" />
+
+### Dark Mode
+<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/5.PNG" draggable="false" />
