@@ -1,10 +1,10 @@
-# <img align="left" alt="Firelaps" width="100px" src="https://twig.cf/site/uploads/2022/May/28/twig_favicon.png" draggable="false" /> Twig ([Click to try 🚀](https://twig.cf/))
+# <img align="left" alt="Firelaps" width="100px" src="https://firelaps.cf/themes/default/img/icon.png" draggable="false" /> Firelaps 🔥 ([Click to try 🚀](https://twig.cf/))
 
-Twig🔍 - the fastest and safest search engine📐 for the web🌐, images🤳, news 📰and much more
+Firelaps 🔥 is a fiery network where anyone📱 can become a news reporter.✨ It's a whole new kind of social network.🚀
 
 
-## **[Changelog 🌐](https://github.com/linkspreed/Twig/blob/main/changelog.md)** **Check out the full Twig changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Twig/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Twig besides development**
+## **[Changelog 🔥](https://github.com/linkspreed/Firelaps/blob/main/changelog.md)** **Check out the full Firelaps changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Firelaps/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Firelaps besides development**
 
 
 <div align="center">
