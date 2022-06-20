@@ -1,5 +1,4 @@
 # Version 1.4.1 18/03/2021
- - [Added] new admin panel, v2
  - [Fixed] reported bugs
 
 # Version 1.4 12/10/2020
@@ -44,21 +43,14 @@
  - Added announcements system.
  - Added share to email option on all posts.
  - Added the option to import RSS news from any RSS/XML link.
- - Added upload logo, favicon to the admin panel.
  - Added upload video feature on all create pages under videos entry.
- - Added theme system in the admin panel.
- - Added complete new powerful admin panel.
+
  - Added the option to enable/disable news, polls, videos, lists, etc.
  - Added custom profile fields system.
- - Added ban user option in admin panel.
  - Added report system, users can report articles.
  - Added backup system for SQL and files(zip)
  - Added max allowed upload size.
- - Added custom JavaScript/CSS code in the admin panel.
- - Added the option to choose if users can post, or just admin.
  - Added Amazon S3 support (Upload/Load images, videos, and content from Amazon S3 CDN)
- - Added API ID / Keys to admin panel, for the upcoming native application.
- - Added the ability to post without admin review.
 
 # Version 1.0
  - Initial release
